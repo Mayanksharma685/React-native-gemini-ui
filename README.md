@@ -1,1 +1,1 @@
-# React-native-gemini-ui-main
+# React-native-gemini-ui
